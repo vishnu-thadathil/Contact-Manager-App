@@ -21,6 +21,12 @@ public class UserController {
 	UserService userService;
 	@Autowired
 	ContactService contactService;
+	@RequestMapping(value="/")
+	public String welcome()
+	{
+		return "signin";
+	}
+	
 	@RequestMapping(value="/signin")
 	public String home()
 	{
