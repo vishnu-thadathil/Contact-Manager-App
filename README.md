@@ -1,5 +1,5 @@
 # Contact-Manager-App
-This is a web application developed in Spring Boot
+This is a web application developed using Spring Boot
 
 #how-to-run
 1. Download zip file.
