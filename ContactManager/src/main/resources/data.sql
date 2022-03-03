@@ -1,0 +1,2 @@
+INSERT INTO user (id, email, password, secret) VALUES (1,'hello@gmail.com','hello123','hello');
+INSERT INTO contact (id,name,ph,email,useremail) VALUES (1,'shv','43435456','dsfh@bhbf.cvc','hello@gmail.com');
